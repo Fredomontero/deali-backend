@@ -1,0 +1,19 @@
+{
+  "name": "deali-backend",
+  "version": "1.0.0",
+  "description": "deali backend service implemented with node.js express, graphql and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fredomontero/deali-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fredomontero/deali-backend/issues"
+  },
+  "homepage": "https://github.com/Fredomontero/deali-backend#readme"
+}
